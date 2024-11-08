@@ -11,4 +11,4 @@ In this repository you will be turning in your cookie clicker sim created on MIT
 
 ![image](https://github.com/user-attachments/assets/8df0f293-52df-4a5e-a471-79f97a04528e)
 ![image](https://github.com/user-attachments/assets/52a3cd61-b318-4af7-a9d7-41474504f41f)
-The most difficult part of this project is probably designing the user interface.
+The most difficult part of this project is probably designing the user interface. The code wasn´t a huge issue because there wasn´t much to code.
